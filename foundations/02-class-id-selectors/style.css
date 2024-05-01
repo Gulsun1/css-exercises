@@ -1,19 +1,19 @@
-.odd_number {
-    background-color: lightpink;
-    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
-}
-
-#second {
-    color: blue;
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+  
+  .adjust-font-size {
+    font-size: 24px;
+  }
+  
+  #two {
+    color: #0000ff;
     font-size: 36px;
-}
-
-#third {
-    font-size: 24px;
-}
-
-#fourth {
-    background-color: lightgreen;
-    font-size: 24px;
+  }
+  
+  #four {
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
-}
+  }
+  
